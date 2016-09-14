@@ -2,7 +2,7 @@
     <string name="app_name">ShippingCalculator</string>
     <string name="baseText">Base Cost:</string>
     <string name="addedText">Added Cost:</string>
-    <string name="totalText">Totak Shipping Cost:</string>
+    <string name="totalText">Total Shipping Cost:</string>
     <string name="wopText">Weight of the package</string>
-    <string name="inOnceText">(in onces)</string>
+    <string name="inOnceText">(in ounces)</string>
 </resources>
