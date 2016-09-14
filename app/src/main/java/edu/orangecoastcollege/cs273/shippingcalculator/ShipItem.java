@@ -40,7 +40,7 @@ public class ShipItem {
     private void recaluculateTotal()
     {
         if(mWeight >= 16.0)
-        {mAddedCost = (((mWeight - 16.0) / 4.0) * 0.50) + BASE_COST;}
+        {mAddedCost = (((mWeight - 16.0) / 4.0) * 0.50 + 0.50);}
         else
         {mAddedCost = 0.0;}
 
